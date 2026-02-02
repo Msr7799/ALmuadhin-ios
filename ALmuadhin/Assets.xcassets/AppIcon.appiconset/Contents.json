@@ -1,0 +1,27 @@
+{
+    "images": [
+        {
+            "filename": "mosque_icon_60x60.png",
+            "idiom": "universal",
+            "platform": "ios",
+            "scale": "2x",
+            "size": "60x60"
+        },
+        {
+            "filename": "mosque_icon_60x60_3x.png",
+            "idiom": "universal",
+            "platform": "ios",
+            "scale": "3x",
+            "size": "60x60"
+        },
+        {
+            "idiom": "universal",
+            "platform": "ios",
+            "size": "1024x1024"
+        }
+    ],
+    "info": {
+        "author": "xcode",
+        "version": 1
+    }
+}
