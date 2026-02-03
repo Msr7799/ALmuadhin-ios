@@ -1,5 +1,16 @@
 # المؤذن - تطبيق iOS (ALmuadhin iOS App)
 
+<img src="ALmuadhin-App.png" width="100%" />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0071e3?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreLocation-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
 تطبيق إسلامي شامل لمواقيت الصلاة والأذكار واتجاه القبلة والتقويم الهجري والمسبحة الرقمية.
 
 ---
